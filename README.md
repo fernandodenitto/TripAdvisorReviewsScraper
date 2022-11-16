@@ -1,3 +1,5 @@
+![This is an image](https://i.ibb.co/zVNbPDW/repologo-copy.png)
+
 # TripAdvisorScraper
 Utility to get reviews from TripAdvisor Platform in but fashion
 
@@ -20,24 +22,26 @@ The "scrape_advisor.py" file requests as input the name of the .txt file generat
 ## How to Run the Scripts
 
 You need to install Python3 on your computer and all the dependencies in the scripts:
+```
+pip install bs4 
 
-> pip install bs4 
+pip install json 
 
-> pip install json 
+pip install pandas
 
-> pip install pandas
-
-> pip install request
+pip install request
+```
 
 If I missed something PLEASE read your console and install the other packages (and text me).
 
 
 After that, simply go into the directory with the scripts and type:
 
-> python3 links_city_scraper.py
+```
+python3 links_city_scraper.py
 
-> python3 scrape_advisor.py
-
+python3 scrape_advisor.py
+```
 ## Disclaimer
 
 The software produces a massive amount of data, also extrapolating the name and surname of visitors (if any).
