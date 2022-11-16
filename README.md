@@ -1,7 +1,7 @@
 ![This is an image](https://i.ibb.co/zVNbPDW/repologo-copy.png)
 
 # TripAdvisorScraper
-Utility to get reviews from TripAdvisor Platform in but fashion
+Utility to get reviews from TripAdvisor Platform in bulk 
 
 ## What is it?
 
