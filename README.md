@@ -30,10 +30,13 @@ pip install json
 pip install pandas
 
 pip install request
+
+pip install browser_cookie3
 ```
 
 If I missed something PLEASE read your console and install the other packages (and text me).
 
+Open your Chrome browser and visit the TripAdvisor homepage in order to obtain fresh cookies (it's needed to avoid blocks)
 
 After that, simply go into the directory with the scripts and type:
 
