@@ -13,7 +13,7 @@ For each hotel obtained in the previous step, it is possible to obtain all the r
 
 ## How it works
 
-The executable files are written in Python 3 and there is no need to change the code to run them.
+The executable files are written in Python and there is no need to change the code to run them.
 
 The "links_city_scraper.py" file requires you to enter the link relating to the city (on TripAdvisor) and produces as output a .txt file with the list of hotel links in the selected city.
 
@@ -38,9 +38,9 @@ If I missed something PLEASE read your console and install the other packages (a
 After that, simply go into the directory with the scripts and type:
 
 ```
-python3 links_city_scraper.py
+python links_city_scraper.py
 
-python3 scrape_advisor.py
+python scrape_advisor.py
 ```
 ## Disclaimer
 
